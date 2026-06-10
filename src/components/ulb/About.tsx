@@ -23,7 +23,7 @@ export function About() {
               A creative tech agency built for <span className="text-gradient">African ambition.</span>
             </h2>
             <p className="mt-6 text-muted-foreground text-lg leading-relaxed">
-              We're a multidisciplinary studio focused on helping African businesses, startups and creators
+              We're a multidisciplinary studio online focused on helping African businesses, startups and creators
               build the visibility, influence and digital infrastructure they need to compete globally.
             </p>
             <p className="mt-4 text-muted-foreground leading-relaxed">

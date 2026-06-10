@@ -5,13 +5,11 @@ const services = [
   { icon: Palette, title: "Branding & Identity", desc: "Logo systems, brand books, visual languages that earn trust." },
   { icon: Globe, title: "Website Development", desc: "Fast, SEO-ready sites built on modern stacks." },
   { icon: Smartphone, title: "Mobile App Development", desc: "Native-feeling iOS & Android products users love." },
-  { icon: Layout, title: "UI/UX Design", desc: "Interfaces engineered for clarity and conversion." },
   { icon: Sparkles, title: "AI Solutions", desc: "Custom AI agents, automations and integrations." },
   { icon: Share2, title: "Social Media Management", desc: "Full-funnel strategy + daily content operations." },
   { icon: Video, title: "Video Editing", desc: "Cinematic edits, reels, ads and brand films." },
   { icon: ImageIcon, title: "Graphic Design", desc: "Pitch decks, posters, packaging and campaigns." },
   { icon: Megaphone, title: "Advertising & Marketing", desc: "Performance-driven Meta, Google & TikTok ads." },
-  { icon: Search, title: "SEO Optimization", desc: "Technical + content SEO that compounds monthly." },
   { icon: Users, title: "Community Management", desc: "Build loyal audiences across Discord, WhatsApp & more." },
 ];
 

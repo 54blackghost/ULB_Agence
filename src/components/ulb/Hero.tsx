@@ -52,7 +52,7 @@ export function Hero() {
           className="inline-flex items-center gap-2 glass rounded-full px-4 py-1.5 text-xs text-muted-foreground mb-8"
         >
           <span className="h-1.5 w-1.5 rounded-full bg-primary animate-pulse-glow" />
-          African Creative Tech Agency · Est. 2024
+          African Creative Tech Agency · 
         </motion.div>
 
         <motion.h1
@@ -99,7 +99,7 @@ export function Hero() {
         >
           <p className="text-xs uppercase tracking-[0.25em] text-muted-foreground mb-5">Trusted by ambitious teams across Africa</p>
           <div className="flex flex-wrap justify-center gap-x-10 gap-y-3 text-muted-foreground/70 font-display font-semibold">
-            {["NOVA", "Kweli", "Sahara+", "Bantu Labs", "Yango", "Mwangaza"].map((n) => (
+            {["NOVA", "ULB TV"].map((n) => (
               <span key={n} className="text-base hover:text-foreground transition">{n}</span>
             ))}
           </div>
