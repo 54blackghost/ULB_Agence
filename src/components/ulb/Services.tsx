@@ -1,16 +1,17 @@
 import { motion } from "framer-motion";
-import { ArrowUpRight, Palette, Globe, Smartphone, Layout, Sparkles, Share2, Video, Image as ImageIcon, Megaphone, Search, Users } from "lucide-react";
+import { ArrowUpRight, Palette, Globe, Smartphone, Layout, Sparkles, Share2, Video, Image as ImageIcon, Megaphone, Search, Users, Server } from "lucide-react";
 
 const services = [
   { icon: Palette, title: "Branding & Identity", desc: "Logo systems, brand books, visual languages that earn trust." },
   { icon: Globe, title: "Website Development", desc: "Fast, SEO-ready sites built on modern stacks." },
   { icon: Smartphone, title: "Mobile App Development", desc: "Native-feeling iOS & Android products users love." },
   { icon: Sparkles, title: "AI Solutions", desc: "Custom AI agents, automations and integrations." },
-  { icon: Share2, title: "Social Media Management", desc: "Full-funnel strategy + daily content operations." },
-  { icon: Video, title: "Video Editing", desc: "Cinematic edits, reels, ads and brand films." },
+  /*{ icon: Share2, title: "Social Media Management", desc: "Full-funnel strategy + daily content operations." },*/
+  /*{ icon: Video, title: "Video Editing", desc: "Cinematic edits, reels, ads and brand films." },*/
   { icon: ImageIcon, title: "Graphic Design", desc: "Pitch decks, posters, packaging and campaigns." },
-  { icon: Megaphone, title: "Advertising & Marketing", desc: "Performance-driven Meta, Google & TikTok ads." },
-  { icon: Users, title: "Community Management", desc: "Build loyal audiences across Discord, WhatsApp & more." },
+  /*{ icon: Megaphone, title: "Advertising & Marketing", desc: "Performance-driven Meta, Google & TikTok ads." },*/
+  { icon: Server, title: "Hosting Provider", desc: "Hosting on a high-performance server." },
+  /*{ icon: Users, title: "Community Management", desc: "Build loyal audiences across Discord, WhatsApp & more." },*/
 ];
 
 export function Services() {

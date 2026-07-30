@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
-import { ArrowRight, Sparkles, Brush, Film, Code2, Megaphone, Camera } from "lucide-react";
-import heroBg from "@/assets/hero-bg.jpg";
+import { ArrowRight, Sparkles, Brush, Code2, Megaphone, Camera, Server } from "lucide-react";
+import heroBg from "/src/assets/hero-bg.jpg";
 
 const floatingCards = [
   { icon: Sparkles, label: "AI", x: "8%", y: "18%", delay: 0 },
   { icon: Brush, label: "Branding", x: "78%", y: "12%", delay: 0.4 },
-  { icon: Film, label: "Media", x: "85%", y: "55%", delay: 0.8 },
+  { icon: Server, label: "Hosting Provider", x: "85%", y: "55%", delay: 0.8 },
   { icon: Code2, label: "Web Dev", x: "4%", y: "62%", delay: 1.2 },
   { icon: Megaphone, label: "Marketing", x: "12%", y: "82%", delay: 1.6 },
   { icon: Camera, label: "Content", x: "82%", y: "85%", delay: 2.0 },
@@ -52,7 +52,7 @@ export function Hero() {
           className="inline-flex items-center gap-2 glass rounded-full px-4 py-1.5 text-xs text-muted-foreground mb-8"
         >
           <span className="h-1.5 w-1.5 rounded-full bg-primary animate-pulse-glow" />
-          African Creative Tech Agency · 
+          ULB Agence · 
         </motion.div>
 
         <motion.h1

@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
-import p1 from "@/assets/port-1.jpg";
-import p2 from "@/assets/port-2.jpg";
-import p3 from "@/assets/port-3.jpg";
-import p4 from "@/assets/port-4.jpg";
-import p5 from "@/assets/port-5.jpg";
-import p6 from "@/assets/port-6.jpg";
+import p1 from "/src/assets/port-1.jpg";
+import p2 from "/src/assets/port-2.jpg";
+import p3 from "/src/assets/port-3.jpg";
+import p4 from "/src/assets/port-4.jpg";
+import p5 from "/src/assets/port-5.jpg";
+import p6 from "/src/assets/port-6.jpg";
 
 const items = [
   { img: p2, title: "Sahara Analytics", tag: "SaaS Dashboard", span: "lg:col-span-2 lg:row-span-2" },

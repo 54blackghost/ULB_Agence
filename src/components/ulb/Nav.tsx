@@ -1,7 +1,8 @@
-import { Link } from "@tanstack/react-router";
+
 import { motion } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
+import { Button } from "../ui/button";
 
 const links = [
   { href: "#about", label: "About" },
@@ -22,10 +23,11 @@ export function Nav() {
     >
       <div className="mx-auto max-w-7xl px-4 sm:px-6 mt-4">
         <div className="glass-strong rounded-2xl px-4 sm:px-6 py-3 flex items-center justify-between">
-          <Link to="/" className="flex items-center gap-2">
+          <a href="/" className="flex items-center gap-2">
             <div className="h-8 w-8 rounded-lg bg-gradient-to-br from-primary to-primary-glow grid place-items-center font-display font-bold text-primary-foreground">U</div>
             <span className="font-display font-semibold tracking-tight">ULB <span className="text-primary">Agence</span></span>
-          </Link>
+          </a>
+          
           <nav className="hidden md:flex items-center gap-7 text-sm text-muted-foreground">
             {links.map((l) => (
               <a key={l.href} href={l.href} className="hover:text-foreground transition-colors">{l.label}</a>

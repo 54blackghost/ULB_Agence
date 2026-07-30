@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 import { Quote } from "lucide-react";
-import t1 from "@/assets/t1.jpg";
-import t2 from "@/assets/t2.jpg";
-import t3 from "@/assets/t3.jpg";
+import t1 from "/src/assets/t1.jpg";
+import t2 from "/src/assets/t2.jpg";
+import t3 from "/src/assets/t3.jpg";
 
 const reviews = [
   { img: t1, name: "Daniel Okafor", role: "Founder, Nova Wallet", text: "ULB rebuilt our entire brand and shipped a beautiful app in 6 weeks. Our signups tripled in the first month." },

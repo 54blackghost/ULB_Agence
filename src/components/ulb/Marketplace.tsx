@@ -1,11 +1,11 @@
 import { motion } from "framer-motion";
 import { ShoppingBag } from "lucide-react";
-import m1 from "@/assets/m1.jpg";
-import m2 from "@/assets/m2.jpg";
-import m3 from "@/assets/m3.jpg";
-import m4 from "@/assets/m4.jpg";
-import m5 from "@/assets/m5.jpg";
-import m6 from "@/assets/m6.jpg";
+import m1 from "/src/assets/m1.jpg";
+import m2 from "/src/assets/m2.jpg";
+import m3 from "/src/assets/m3.jpg";
+import m4 from "/src/assets/m4.jpg";
+import m5 from "/src/assets/m5.jpg";
+import m6 from "/src/assets/m6.jpg";
 
 const items = [
   { img: m1, cat: "Graphic Design", title: "Afro-Modern Poster Pack", desc: "30+ editable poster templates with bold African typography.", price: "$29" },
