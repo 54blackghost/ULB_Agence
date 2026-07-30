@@ -281,9 +281,9 @@ Ce projet est distribué sous licence MIT.
 
 📧 Email : [contact@ulbagence.com](mailto:ulbgroup8@gmail.com)
 
-🌍 Site Web : [En cours de développement](https://ulb-agence.vercel.app/)
+🌍 Site Web : [ULB Agence](https://ulb-agence.vercel.app/)
 
-📱 Réseaux sociaux : Facebook • LinkedIn • TikTok • Instagram
+📱 Réseaux sociaux : [Facebook(https://www.facebook.com/profile.php?id=61556011924688)]  • [TikTok(tiktok.com/@ulb_agence)] • 
 
 ---
 
