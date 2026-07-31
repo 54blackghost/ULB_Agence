@@ -49,8 +49,8 @@ export function Contact() {
             </div>
 
             <div className="mt-8 flex items-center gap-3">
-              <a aria-label="Facebook" href="#" className="h-10 w-10 grid place-items-center rounded-full glass hover:text-primary transition"><Facebook size={16} /></a>
-              <a aria-label="TikTok" href="#" className="h-10 w-10 grid place-items-center rounded-full glass hover:text-primary transition"><Music2 size={16} /></a>
+              <a aria-label="Facebook" href="https://www.facebook.com/profile.php?id=61556011924688" className="h-10 w-10 grid place-items-center rounded-full glass hover:text-primary transition"><Facebook size={16} /></a>
+              <a aria-label="TikTok" href="https://www.tiktok.com/@ulb_agence" className="h-10 w-10 grid place-items-center rounded-full glass hover:text-primary transition"><Music2 size={16} /></a>
               <a aria-label="WhatsApp" href="https://wa.me/237678994026" className="h-10 w-10 grid place-items-center rounded-full glass hover:text-primary transition"><MessageCircle size={16} /></a>
             </div>
           </motion.div>
