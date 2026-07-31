@@ -283,7 +283,7 @@ Ce projet est distribué sous licence MIT.
 
 🌍 Site Web : [ULB Agence](https://ulb-agence.vercel.app/)
 
-📱 Réseaux sociaux : [Facebook(https://www.facebook.com/profile.php?id=61556011924688)]  • [TikTok(tiktok.com/@ulb_agence)] • 
+📱 Réseaux sociaux : [Facebook(https://www.facebook.com/profile.php?id=61556011924688)]  • [TikTok(https://www.tiktok.com/@ulb_agence)] • 
 
 ---
 
