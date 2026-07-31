@@ -16,7 +16,7 @@ Chez **ULB Agence**, nous croyons que chaque projet mérite une identité unique
 
 #  Nos Services
 
-### 🎨 Branding & Identité Visuelle
+###  Branding & Identité Visuelle
 
 * Création de logos professionnels
 * Charte graphique
@@ -52,7 +52,7 @@ Technologies :
 
 ---
 
-### 📱 Développement Mobile
+###  Développement Mobile
 
 Création d'applications mobiles Android & iOS :
 
@@ -69,7 +69,7 @@ Technologies :
 
 ---
 
-### ☁ Hébergement & Déploiement
+###  Hébergement & Déploiement
 
 Nous assurons également :
 
@@ -83,7 +83,7 @@ Nous assurons également :
 
 ---
 
-### 📈 Marketing Digital
+###  Marketing Digital
 
 Développez votre visibilité grâce à :
 
@@ -98,7 +98,7 @@ Développez votre visibilité grâce à :
 
 ---
 
-### 🤖 Intelligence Artificielle
+###  Intelligence Artificielle
 
 Nous développons des solutions utilisant l'IA afin d'automatiser et d'améliorer les processus métiers :
 
@@ -111,7 +111,7 @@ Nous développons des solutions utilisant l'IA afin d'automatiser et d'améliore
 
 ---
 
-# 🎯 Pourquoi choisir ULB Agence ?
+#  Pourquoi choisir ULB Agence ?
 
 ✅ Design moderne
 
@@ -192,7 +192,7 @@ src/
 
 ---
 
-# 🎨 Design System
+#  Design System
 
 Palette principale :
 
@@ -215,7 +215,7 @@ Style :
 
 ---
 
-# 📱 Fonctionnalités
+#  Fonctionnalités
 
 * Landing Page moderne
 * Présentation des services
@@ -231,7 +231,7 @@ Style :
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 ```bash
 git clone https://github.com/votre-utilisateur/ulb-agence.git
@@ -279,11 +279,13 @@ Ce projet est distribué sous licence MIT.
 
 **ULB Agence**
 
-📧 Email : [contact@ulbagence.com](mailto:contact@ulbagence.com)
+📧 Email : [contact@ulbagence.com](mailto:ulbgroup8@gmail.com)
 
-🌍 Site Web : En cours de développement
+🌍 Site Web : [ULB Agence](https://ulb-agence.vercel.app/)
 
-📱 Réseaux sociaux : Facebook • LinkedIn • TikTok • Instagram
+📱 Réseaux sociaux : 
+[Facebook(https://www.facebook.com/profile.php?id=61556011924688)]  • 
+[TikTok(https://www.tiktok.com/@ulb_agence)] • 
 
 ---
 
