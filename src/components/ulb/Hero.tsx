@@ -44,17 +44,10 @@ export function Hero() {
         ))}
       </div>
 
-      <div className="relative mx-auto max-w-5xl px-6 text-center">
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6 }}
-          className="inline-flex items-center gap-2 glass rounded-full px-4 py-1.5 text-xs text-muted-foreground mb-8"
-        >
-          <span className="h-1.5 w-1.5 rounded-full bg-primary animate-pulse-glow" />
-          ULB Agence · 
-        </motion.div>
 
+        <br />
+      <div className="relative mx-auto max-w-5xl px-6 text-center">
+        <br />
         <motion.h1
           initial={{ opacity: 0, y: 24 }}
           animate={{ opacity: 1, y: 0 }}
